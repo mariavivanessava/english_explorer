@@ -1,0 +1,249 @@
+/* Menu do TranslateMaster usando o mesmo tema global do English Explorer. */
+
+body.translate-master-page .navbar {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 1000 !important;
+    padding: 12px 0 !important;
+    background: rgba(255, 255, 255, 0.76) !important;
+    border-bottom: 1px solid rgba(21, 25, 54, 0.1) !important;
+    box-shadow: 0 12px 34px rgba(21, 25, 54, 0.1) !important;
+    backdrop-filter: blur(20px) saturate(1.35) !important;
+}
+
+body.translate-master-page .navbar .container {
+    max-width: 1400px !important;
+    margin: 0 auto !important;
+    padding: 0 24px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 15px !important;
+}
+
+body.translate-master-page .logo {
+    flex-shrink: 0 !important;
+    font-size: 1.6rem !important;
+    line-height: 1.2 !important;
+    font-weight: 900 !important;
+    letter-spacing: 0 !important;
+    text-decoration: none !important;
+    background: linear-gradient(135deg, var(--primary-light), var(--accent), var(--coral)) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    color: transparent !important;
+}
+
+body.translate-master-page .logo::after {
+    content: "" !important;
+    display: block !important;
+    width: 58px !important;
+    height: 4px !important;
+    margin-top: 2px !important;
+    border-radius: 99px !important;
+    background: linear-gradient(90deg, var(--primary-light), var(--accent), var(--gold), var(--coral), var(--pink)) !important;
+    animation: explorerHue 8s linear infinite !important;
+}
+
+body.translate-master-page .user-greeting {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-end !important;
+    gap: 12px !important;
+    margin-left: auto !important;
+}
+
+body.translate-master-page .welcome-badge {
+    min-height: 38px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+    padding: 8px 20px !important;
+    border: 1px solid rgba(255, 255, 255, 0.34) !important;
+    border-radius: 999px !important;
+    background: linear-gradient(135deg, #2f6ae8 0%, #3ab4d7 52%, #17b6a7 100%) !important;
+    color: #ffffff !important;
+    box-shadow: 0 12px 24px rgba(41, 87, 255, 0.20) !important;
+    font-size: 0.95rem !important;
+    font-weight: 500 !important;
+}
+
+body.translate-master-page .nav-links {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-end !important;
+    gap: 10px !important;
+    margin-left: auto !important;
+}
+
+body.translate-master-page .nav-links a,
+body.translate-master-page .games-menu-button,
+body.translate-master-page .logout-btn {
+    min-height: 38px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 7px !important;
+    padding: 8px 13px !important;
+    border-radius: 999px !important;
+    font-family: 'Inter', Arial, sans-serif !important;
+    font-size: 0.95rem !important;
+    font-weight: 800 !important;
+    line-height: 1 !important;
+    text-decoration: none !important;
+    cursor: pointer !important;
+    transition: transform 0.22s ease, box-shadow 0.22s ease, color 0.22s ease, background 0.22s ease !important;
+}
+
+body.translate-master-page .nav-links a,
+body.translate-master-page .games-menu-button {
+    border: 0 !important;
+    background: transparent !important;
+    color: var(--primary) !important;
+    box-shadow: none !important;
+}
+
+body.translate-master-page .nav-links a:hover,
+body.translate-master-page .games-menu-button:hover,
+body.translate-master-page .games-menu:focus-within .games-menu-button {
+    color: var(--primary-light) !important;
+    background: rgba(41, 87, 255, 0.08) !important;
+}
+
+body.translate-master-page .nav-links a.active,
+body.translate-master-page .nav-links a.active:hover,
+body.translate-master-page .games-dropdown a.active,
+body.translate-master-page .games-dropdown a.active:hover {
+    box-shadow: none !important;
+    background: linear-gradient(135deg, var(--primary-light), var(--accent), var(--coral)) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    color: transparent !important;
+}
+
+body.translate-master-page .logout-btn {
+    margin-left: 0 !important;
+    padding: 8px 20px !important;
+    border: 0 !important;
+    background: linear-gradient(135deg, var(--primary-light), var(--accent), var(--coral)) !important;
+    color: #ffffff !important;
+    box-shadow: 0 14px 30px rgba(41, 87, 255, 0.22) !important;
+}
+
+body.translate-master-page .logout-btn:hover {
+    transform: translateY(-3px) !important;
+    box-shadow: 0 22px 44px rgba(255, 92, 92, 0.22) !important;
+    filter: saturate(1.12) !important;
+    color: #ffffff !important;
+}
+
+body.translate-master-page .games-menu {
+    position: relative !important;
+}
+
+body.translate-master-page .games-dropdown {
+    position: absolute !important;
+    top: calc(100% + 8px) !important;
+    right: 0 !important;
+    min-width: 220px !important;
+    padding: 8px !important;
+    border-radius: 12px !important;
+    border: none !important;
+    background: rgba(255, 255, 255, 0.98) !important;
+    box-shadow: 0 18px 38px rgba(15, 23, 42, 0.12) !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    transform: translateY(-6px) !important;
+    transition: opacity 0.18s ease, transform 0.18s ease, visibility 0.18s ease !important;
+    z-index: 1002 !important;
+}
+
+body.translate-master-page .games-menu:hover .games-dropdown,
+body.translate-master-page .games-menu:focus-within .games-dropdown {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) !important;
+}
+
+body.translate-master-page .games-dropdown a {
+    width: 100% !important;
+    min-height: 40px !important;
+    justify-content: flex-start !important;
+    gap: 10px !important;
+    padding: 10px 14px !important;
+    border-radius: 8px !important;
+    color: var(--primary) !important;
+    background: transparent !important;
+    transform: none !important;
+    font-size: 0.95rem !important;
+}
+
+body.translate-master-page .games-dropdown a:hover {
+    color: var(--primary-light) !important;
+    background: rgba(41, 87, 255, 0.08) !important;
+}
+
+body.translate-master-page .games-dropdown a.active,
+body.translate-master-page .games-dropdown a.active:hover {
+    box-shadow: none !important;
+    background: linear-gradient(135deg, var(--primary-light), var(--accent), var(--coral)) !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    color: transparent !important;
+}
+
+body.translate-master-page .games-dropdown a i {
+    width: 20px !important;
+    color: var(--accent) !important;
+    text-align: center !important;
+}
+
+@media (max-width: 768px) {
+    body.translate-master-page .navbar .container,
+    body.translate-master-page .user-greeting {
+        align-items: center !important;
+    }
+
+    body.translate-master-page .navbar .container {
+        flex-direction: column !important;
+        gap: 8px !important;
+    }
+
+    body.translate-master-page .user-greeting {
+        width: 100% !important;
+        justify-content: center !important;
+        flex-wrap: wrap !important;
+        margin-left: 0 !important;
+    }
+
+    body.translate-master-page .nav-links {
+        width: 100% !important;
+        justify-content: center !important;
+        flex-wrap: wrap !important;
+        gap: 8px !important;
+        margin-left: 0 !important;
+    }
+
+    body.translate-master-page .games-menu {
+        position: static !important;
+    }
+
+    body.translate-master-page .games-dropdown {
+        left: 50% !important;
+        right: auto !important;
+        transform: translate(-50%, -6px) !important;
+    }
+
+    body.translate-master-page .games-menu:hover .games-dropdown,
+    body.translate-master-page .games-menu:focus-within .games-dropdown {
+        transform: translate(-50%, 0) !important;
+    }
+
+    body.translate-master-page .translate-page {
+        margin-top: 136px !important;
+    }
+}

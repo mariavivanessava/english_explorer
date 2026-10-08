@@ -1,0 +1,1136 @@
+[
+    {
+        "categoria": "palavra",
+        "termo": "Hello",
+        "significado": "Olá - Saudação comum em inglês",
+        "exemplo": "Hello, how are you?"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Goodbye",
+        "significado": "Adeus - Despedida",
+        "exemplo": "Goodbye, see you tomorrow!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Friend",
+        "significado": "Amigo - Pessoa com quem temos afinidade",
+        "exemplo": "She is my best friend."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Beautiful",
+        "significado": "Bonito(a) - Algo agradável aos olhos",
+        "exemplo": "The sunset is beautiful."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Delicious",
+        "significado": "Delicioso - Comida saborosa",
+        "exemplo": "This cake is delicious!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Happy",
+        "significado": "Feliz - Estado de alegria",
+        "exemplo": "I am happy today!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Sad",
+        "significado": "Triste - Estado de tristeza",
+        "exemplo": "The movie made me sad."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Fast",
+        "significado": "Rápido - Algo com alta velocidade",
+        "exemplo": "The car is very fast."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Slow",
+        "significado": "Devagar - Algo com baixa velocidade",
+        "exemplo": "The turtle is slow."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Big",
+        "significado": "Grande - Algo de tamanho grande",
+        "exemplo": "That is a big house."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Small",
+        "significado": "Pequeno - Algo de tamanho reduzido",
+        "exemplo": "I have a small dog."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "New",
+        "significado": "Novo - Algo recente",
+        "exemplo": "I bought a new phone."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Old",
+        "significado": "Velho - Algo antigo",
+        "exemplo": "This is an old building."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Good",
+        "significado": "Bom - Algo positivo",
+        "exemplo": "This is a good idea."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Bad",
+        "significado": "Ruim - Algo negativo",
+        "exemplo": "That was a bad decision."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Easy",
+        "significado": "Fácil - Algo simples de fazer",
+        "exemplo": "The test was easy."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Hard",
+        "significado": "Difícil - Algo complicado",
+        "exemplo": "Math is hard for some people."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Work",
+        "significado": "Trabalho - Atividade profissional",
+        "exemplo": "I go to work every day."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Study",
+        "significado": "Estudar - Aprender algo",
+        "exemplo": "I need to study for the exam."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Family",
+        "significado": "Família - Grupo de parentes",
+        "exemplo": "I love my family."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "House",
+        "significado": "Casa - Lugar onde se mora",
+        "exemplo": "They have a beautiful house."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Car",
+        "significado": "Carro - Veículo automotor",
+        "exemplo": "My car is red."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Food",
+        "significado": "Comida - Alimento",
+        "exemplo": "I love Italian food."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Water",
+        "significado": "Água - Líquido essencial",
+        "exemplo": "Drink plenty of water."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Time",
+        "significado": "Tempo - Duração ou momento",
+        "exemplo": "What time is it?"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Day",
+        "significado": "Dia - Período de 24 horas",
+        "exemplo": "Have a nice day!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Night",
+        "significado": "Noite - Período escuro do dia",
+        "exemplo": "I sleep at night."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Love",
+        "significado": "Amor - Sentimento profundo",
+        "exemplo": "I love you."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Dream",
+        "significado": "Sonho - Imaginação durante o sono ou objetivo",
+        "exemplo": "Follow your dreams."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Music",
+        "significado": "Música - Arte dos sons",
+        "exemplo": "I listen to music every day."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Movie",
+        "significado": "Filme - Obra cinematográfica",
+        "exemplo": "Let's watch a movie."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Book",
+        "significado": "Livro - Conjunto de páginas escritas",
+        "exemplo": "I am reading a good book."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "School",
+        "significado": "Escola - Instituição de ensino",
+        "exemplo": "The school is nearby."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Teacher",
+        "significado": "Professor - Quem ensina",
+        "exemplo": "The teacher is very kind."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Student",
+        "significado": "Estudante - Quem aprende",
+        "exemplo": "She is a good student."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "City",
+        "significado": "Cidade - Grande centro urbano",
+        "exemplo": "New York is a big city."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Country",
+        "significado": "País - Nação",
+        "exemplo": "Brazil is my country."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Morning",
+        "significado": "Manhã - Período do dia",
+        "exemplo": "Good morning!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Afternoon",
+        "significado": "Tarde - Período após o meio-dia",
+        "exemplo": "Good afternoon!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Evening",
+        "significado": "Noite (início) - Período do fim da tarde",
+        "exemplo": "Good evening!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Week",
+        "significado": "Semana - Período de 7 dias",
+        "exemplo": "See you next week!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Month",
+        "significado": "Mês - Período de 30 dias",
+        "exemplo": "My birthday is this month."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Year",
+        "significado": "Ano - Período de 365 dias",
+        "exemplo": "Happy New Year!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Hot",
+        "significado": "Quente - Temperatura elevada",
+        "exemplo": "The coffee is hot."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Cold",
+        "significado": "Frio - Temperatura baixa",
+        "exemplo": "It is very cold today."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Rain",
+        "significado": "Chuva - Precipitação",
+        "exemplo": "I love the rain."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Sun",
+        "significado": "Sol - Estrela central do sistema solar",
+        "exemplo": "The sun is shining."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Moon",
+        "significado": "Lua - Satélite natural da Terra",
+        "exemplo": "The moon is full tonight."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Star",
+        "significado": "Estrela - Astro luminoso",
+        "exemplo": "Look at the stars!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Tree",
+        "significado": "Árvore - Planta de grande porte",
+        "exemplo": "There is a big tree in the garden."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Flower",
+        "significado": "Flor - Estrutura reprodutiva das plantas",
+        "exemplo": "The flowers are beautiful."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Dog",
+        "significado": "Cachorro - Animal de estimação",
+        "exemplo": "My dog is very friendly."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Cat",
+        "significado": "Gato - Animal de estimação felino",
+        "exemplo": "The cat is sleeping."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Bird",
+        "significado": "Pássaro - Animal que voa",
+        "exemplo": "I can hear the birds singing."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Fish",
+        "significado": "Peixe - Animal aquático",
+        "exemplo": "I caught a big fish!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Bed",
+        "significado": "Cama - Móvel para dormir",
+        "exemplo": "I am going to bed now."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Door",
+        "significado": "Porta - Entrada de um ambiente",
+        "exemplo": "Please close the door."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Window",
+        "significado": "Janela - Abertura na parede",
+        "exemplo": "Open the window, please."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Money",
+        "significado": "Dinheiro - Meio de troca",
+        "exemplo": "I need some money."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Job",
+        "significado": "Emprego - Trabalho remunerado",
+        "exemplo": "I have a new job."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Health",
+        "significado": "Saúde - Bem-estar físico e mental",
+        "exemplo": "Health is very important."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Help",
+        "significado": "Ajuda - Auxílio, socorro",
+        "exemplo": "Can you help me?"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Travel",
+        "significado": "Viajar - Deslocar-se entre lugares",
+        "exemplo": "I want to travel the world."
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Weather",
+        "significado": "Clima - Condições atmosféricas",
+        "exemplo": "How is the weather today?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Cool",
+        "significado": "Legal, maneiro - Expressão de aprovação",
+        "exemplo": "That's a cool shirt!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Awesome",
+        "significado": "Incrível, fantástico - Algo muito bom",
+        "exemplo": "The concert was awesome!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "What's up?",
+        "significado": "E aí? Como vai? - Saudação informal",
+        "exemplo": "Hey, what's up?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "No way!",
+        "significado": "Não acredito! - Expressão de surpresa",
+        "exemplo": "You won the lottery? No way!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Hang out",
+        "significado": "Sair, passar tempo com alguém",
+        "exemplo": "Let's hang out this weekend."
+    },
+    {
+        "categoria": "giria",
+        "termo": "OMG",
+        "significado": "Oh My God - Ai meu Deus! Expressão de surpresa",
+        "exemplo": "OMG! I can't believe it!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "LOL",
+        "significado": "Laughing Out Loud - Rindo muito",
+        "exemplo": "That meme is so funny, LOL!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "BTW",
+        "significado": "By The Way - A propósito",
+        "exemplo": "BTW, did you see the game?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "IDK",
+        "significado": "I Don't Know - Eu não sei",
+        "exemplo": "IDK what to do."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Gonna",
+        "significado": "Going to - Vou (forma informal)",
+        "exemplo": "I'm gonna go now."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Wanna",
+        "significado": "Want to - Querer (forma informal)",
+        "exemplo": "Do you wanna come?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Gotta",
+        "significado": "Got to - Tenho que (forma informal)",
+        "exemplo": "I gotta go now."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Kinda",
+        "significado": "Kind of - Tipo, meio que",
+        "exemplo": "I'm kinda tired."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Sorta",
+        "significado": "Sort of - Mais ou menos",
+        "exemplo": "It's sorta complicated."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Yeah",
+        "significado": "Sim - Forma informal de yes",
+        "exemplo": "Yeah, I agree."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Nope",
+        "significado": "Não - Forma informal de no",
+        "exemplo": "Nope, not today."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Yep",
+        "significado": "Sim - Forma informal de yes",
+        "exemplo": "Yep, that's right."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Chill out",
+        "significado": "Relaxar, ficar tranquilo",
+        "exemplo": "Just chill out, everything is fine."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Awesome sauce",
+        "significado": "Algo extremamente legal",
+        "exemplo": "That movie was awesome sauce!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Beat",
+        "significado": "Exausto, muito cansado",
+        "exemplo": "I worked all day, I'm beat."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Binge watch",
+        "significado": "Maratonar uma série",
+        "exemplo": "I binge watched the entire season."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Crush",
+        "significado": "Paixão, interesse amoroso",
+        "exemplo": "She is my crush."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Epic fail",
+        "significado": "Fracasso épico, falha total",
+        "exemplo": "My attempt to cook was an epic fail."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Facepalm",
+        "significado": "Gesto de frustração com a mão no rosto",
+        "exemplo": "When he said that, I did a facepalm."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Ghosting",
+        "significado": "Sumir, parar de responder mensagens",
+        "exemplo": "He stopped talking to me, total ghosting."
+    },
+    {
+        "categoria": "giria",
+        "termo": "GOAT",
+        "significado": "Greatest Of All Time - Melhor de todos os tempos",
+        "exemplo": "Michael Jordan is the GOAT."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Hater",
+        "significado": "Pessoa que critica negativamente",
+        "exemplo": "Don't listen to the haters."
+    },
+    {
+        "categoria": "giria",
+        "termo": "It's lit",
+        "significado": "Está animado, muito legal",
+        "exemplo": "The party was lit!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Netflix and chill",
+        "significado": "Frase usada para convidar alguém para assistir Netflix (geralmente com segundas intenções)",
+        "exemplo": "Do you want to Netflix and chill?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "On point",
+        "significado": "Perfeito, impecável",
+        "exemplo": "Your outfit is on point!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Salty",
+        "significado": "Amargurado, irritado",
+        "exemplo": "Why are you so salty today?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Savage",
+        "significado": "Alguém sem filtros, que fala o que pensa",
+        "exemplo": "That response was savage!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Shade",
+        "significado": "Desrespeito disfarçado, indireta",
+        "exemplo": "She was throwing shade at him."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Squad",
+        "significado": "Grupo de amigos próximos",
+        "exemplo": "Going out with my squad tonight."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Throwback",
+        "significado": "Recordação, nostalgia",
+        "exemplo": "Throwback to our vacation last year."
+    },
+    {
+        "categoria": "giria",
+        "termo": "YOLO",
+        "significado": "You Only Live Once - Você só vive uma vez",
+        "exemplo": "Let's go skydiving, YOLO!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Catch up",
+        "significado": "Colocar a conversa em dia",
+        "exemplo": "Let's catch up over coffee."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Freak out",
+        "significado": "Surtar, ficar muito nervoso",
+        "exemplo": "Don't freak out, it's not a big deal."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Give a hand",
+        "significado": "Dar uma mão, ajudar",
+        "exemplo": "Can you give me a hand?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Hit the road",
+        "significado": "Pegar a estrada, sair",
+        "exemplo": "We should hit the road early."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Keep in touch",
+        "significado": "Manter contato",
+        "exemplo": "Let's keep in touch after graduation."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Piece of cake",
+        "significado": "Moleza, algo muito fácil",
+        "exemplo": "The test was a piece of cake."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Pull an all-nighter",
+        "significado": "Virar a noite estudando ou trabalhando",
+        "exemplo": "I had to pull an all-nighter for the exam."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Sit tight",
+        "significado": "Aguardar pacientemente",
+        "exemplo": "Just sit tight, help is coming."
+    },
+    {
+        "categoria": "giria",
+        "termo": "FOMO",
+        "significado": "Fear Of Missing Out - Medo de ficar de fora de algo legal",
+        "exemplo": "I have serious FOMO about that party."
+    },
+    {
+        "categoria": "giria",
+        "termo": "JOMO",
+        "significado": "Joy Of Missing Out - Alegria de ficar em casa de boa",
+        "exemplo": "JOMO is real, I love staying home."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Hangry",
+        "significado": "Faminto + irritado (Hungry + Angry)",
+        "exemplo": "Give me food, I'm getting hangry!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Snack",
+        "significado": "Alguém muito atraente (gíria: \"gato\/gata\")",
+        "exemplo": "Did you see him? He's a snack!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Thirsty",
+        "significado": "Desesperado por atenção romântica",
+        "exemplo": "He comments on every photo, so thirsty!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Clap back",
+        "significado": "Responder de forma afiada a uma crítica",
+        "exemplo": "Her clap back was legendary!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Tea",
+        "significado": "Fofoca quente, novidade",
+        "exemplo": "Spill the tea! What happened?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Slay",
+        "significado": "Arrasar, fazer algo de forma incrível",
+        "exemplo": "You slay in that dress, girl!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Low-key",
+        "significado": "Discretamente, na surdina",
+        "exemplo": "I low-key love watching cartoons."
+    },
+    {
+        "categoria": "giria",
+        "termo": "High-key",
+        "significado": "Abertamente, sem vergonha",
+        "exemplo": "I high-key need a vacation."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Flex",
+        "significado": "Se exibir, ostentar",
+        "exemplo": "Stop flexing your new car!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Cringe",
+        "significado": "Vergonha alheia, algo constrangedor",
+        "exemplo": "His dad dancing is so cringe."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Sus",
+        "significado": "Suspicious - Suspeito, estranho",
+        "exemplo": "That guy is acting sus."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Cap",
+        "significado": "Mentira (No cap = sem mentira)",
+        "exemplo": "He said he's rich? That's cap!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Simp",
+        "significado": "Alguém que faz de tudo por atenção romântica",
+        "exemplo": "He bought her a car? What a simp!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Stan",
+        "significado": "Fã obsessivo de alguém",
+        "exemplo": "I stan this singer so hard!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Vibe check",
+        "significado": "Testar o clima\/energia do ambiente",
+        "exemplo": "Vibe check! How is everyone feeling?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Main character energy",
+        "significado": "Agir como se fosse o protagonista",
+        "exemplo": "She has main character energy!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Living rent-free",
+        "significado": "Ocupar sua mente sem pagar aluguel",
+        "exemplo": "That song lives rent-free in my head."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Big yikes",
+        "significado": "Situação muito constrangedora",
+        "exemplo": "He called her by the wrong name... big yikes!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "I'm dead",
+        "significado": "Estou morrendo de rir (não literalmente)",
+        "exemplo": "That joke was so funny, I'm dead!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Drip",
+        "significado": "Estilo, roupa maneira",
+        "exemplo": "Check out my new drip!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Glow up",
+        "significado": "Transformação positiva na aparência",
+        "exemplo": "She had a major glow up this year."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Receipts",
+        "significado": "Provas, evidências (em discussões)",
+        "exemplo": "I have the receipts to prove it!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Wig snatched",
+        "significado": "Chocado, impressionado (positivamente)",
+        "exemplo": "Her performance snatched my wig!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Periodt",
+        "significado": "Ponto final (ênfase na afirmação)",
+        "exemplo": "She is the best singer, periodt!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Bet",
+        "significado": "Tá certo, combinado, pode apostar",
+        "exemplo": "You coming tonight? Bet!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "No cap",
+        "significado": "Sem mentira, sério mesmo",
+        "exemplo": "This is the best pizza ever, no cap!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Touch grass",
+        "significado": "Sair um pouco da internet (ir tomar ar)",
+        "exemplo": "You've been online all day, go touch grass."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Rizz",
+        "significado": "Charme, capacidade de paquerar",
+        "exemplo": "He has that rizz, no wonder girls like him."
+    },
+    {
+        "categoria": "giria",
+        "termo": "AFK",
+        "significado": "Away From Keyboard - Longe do teclado",
+        "exemplo": "BRB, I'll be AFK for a few minutes."
+    },
+    {
+        "categoria": "giria",
+        "termo": "BRB",
+        "significado": "Be Right Back - Volto já",
+        "exemplo": "BRB, gotta grab some water."
+    },
+    {
+        "categoria": "giria",
+        "termo": "TBH",
+        "significado": "To Be Honest - Pra ser honesto",
+        "exemplo": "TBH, I didn't like the movie."
+    },
+    {
+        "categoria": "giria",
+        "termo": "IMO",
+        "significado": "In My Opinion - Na minha opinião",
+        "exemplo": "IMO, this is the best option."
+    },
+    {
+        "categoria": "giria",
+        "termo": "IRL",
+        "significado": "In Real Life - Na vida real",
+        "exemplo": "We finally met IRL!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "DM",
+        "significado": "Direct Message - Mensagem direta",
+        "exemplo": "Slide into my DMs!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "TL;DR",
+        "significado": "Too Long; Didn't Read - Resumo de texto longo",
+        "exemplo": "Can you give me the TL;DR?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "ASAP",
+        "significado": "As Soon As Possible - O mais rápido possível",
+        "exemplo": "I need this report ASAP!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "FYI",
+        "significado": "For Your Information - Para sua informação",
+        "exemplo": "FYI, the meeting was moved to 3pm."
+    },
+    {
+        "categoria": "giria",
+        "termo": "NVM",
+        "significado": "Never Mind - Deixa pra lá",
+        "exemplo": "NVM, I found the answer."
+    },
+    {
+        "categoria": "giria",
+        "termo": "TMI",
+        "significado": "Too Much Information - Informação demais",
+        "exemplo": "I didn't need to know that... TMI!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "NSFW",
+        "significado": "Not Safe For Work - Conteúdo inapropriado",
+        "exemplo": "This video is NSFW, watch later."
+    },
+    {
+        "categoria": "giria",
+        "termo": "AMA",
+        "significado": "Ask Me Anything - Me pergunte qualquer coisa",
+        "exemplo": "I'm doing an AMA on Reddit tonight."
+    },
+    {
+        "categoria": "giria",
+        "termo": "ELI5",
+        "significado": "Explain Like I'm 5 - Explique de forma simples",
+        "exemplo": "Can you ELI5 this concept?"
+    },
+    {
+        "categoria": "giria",
+        "termo": "MFW",
+        "significado": "My Face When - Minha cara quando",
+        "exemplo": "MFW I saw the surprise party!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "FTW",
+        "significado": "For The Win - Para a vitória (algo muito bom)",
+        "exemplo": "Pizza for dinner FTW!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "BFF",
+        "significado": "Best Friends Forever - Melhores amigos para sempre",
+        "exemplo": "She is my BFF since kindergarten."
+    },
+    {
+        "categoria": "giria",
+        "termo": "FOMO",
+        "significado": "Fear Of Missing Out - Medo de ficar de fora",
+        "exemplo": "I can't miss this, serious FOMO!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "GOATed",
+        "significado": "Algo ou alguém que é o melhor (derivado de GOAT)",
+        "exemplo": "That game is absolutely GOATed."
+    },
+    {
+        "categoria": "giria",
+        "termo": "POV",
+        "significado": "Point Of View - Ponto de vista",
+        "exemplo": "POV: You're about to eat the best cake ever."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Bussin'",
+        "significado": "Extremamente bom (especialmente comida)",
+        "exemplo": "This burger is bussin', no cap!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Based",
+        "significado": "Alguém que fala verdades corajosas",
+        "exemplo": "That opinion is so based, I agree!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Mid",
+        "significado": "Mediano, mais ou menos, nada especial",
+        "exemplo": "The movie was kinda mid, honestly."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Gucci",
+        "significado": "Tudo bem, tudo certo (como a marca de luxo)",
+        "exemplo": "Everything is Gucci, don't worry!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Slaps",
+        "significado": "Muito bom (especialmente música)",
+        "exemplo": "This new song slaps so hard!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Woke",
+        "significado": "Consciente socialmente, ligado em questões sociais",
+        "exemplo": "Stay woke and question everything."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Living my best life",
+        "significado": "Viver a melhor versão da sua vida",
+        "exemplo": "Traveling and eating good food, living my best life!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Boujee",
+        "significado": "Luxuoso, chique (derivado de bourgeois)",
+        "exemplo": "That restaurant is so boujee!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Fire",
+        "significado": "Incrível, fantástico",
+        "exemplo": "Your new shoes are straight fire!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Ghost",
+        "significado": "Desaparecer, sumir sem avisar",
+        "exemplo": "He ghosted me after the first date."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Ship",
+        "significado": "Torcer por um casal (relationship)",
+        "exemplo": "I totally ship those two characters!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Mood",
+        "significado": "Algo com que você se identifica totalmente",
+        "exemplo": "That picture of the tired cat is such a mood."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Cancelado",
+        "significado": "Ser boicotado socialmente por fazer algo errado",
+        "exemplo": "That actor got canceled last year."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Bop",
+        "significado": "Música muito boa e dançante",
+        "exemplo": "This song is a total bop!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Understood the assignment",
+        "significado": "Entendeu perfeitamente o que era pra fazer",
+        "exemplo": "She really understood the assignment with this outfit!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Spill",
+        "significado": "Contar fofoca, revelar segredos",
+        "exemplo": "Come on, spill! I want to know everything."
+    },
+    {
+        "categoria": "giria",
+        "termo": "It's giving",
+        "significado": "Passa a vibe de...",
+        "exemplo": "This outfit is giving 90s pop star."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Press F",
+        "significado": "Mostrar respeito\/prestar condolências (origem de jogo)",
+        "exemplo": "He failed the test? Press F to pay respects."
+    },
+    {
+        "categoria": "giria",
+        "termo": "F in the chat",
+        "significado": "Mesmo que Press F - preste condolências",
+        "exemplo": "Phone battery died... F in the chat."
+    },
+    {
+        "categoria": "giria",
+        "termo": "CEO of",
+        "significado": "Ser o melhor em algo, o CEO de algo",
+        "exemplo": "She is the CEO of being late."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Pick-me",
+        "significado": "Pessoa que se esforça para ser escolhida\/validada",
+        "exemplo": "She's such a pick-me, always putting others down."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Karen",
+        "significado": "Mulher rude e exigente (estereótipo)",
+        "exemplo": "The customer was being a total Karen."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Let him cook",
+        "significado": "Deixe ele pensar\/fazer o que está planejando",
+        "exemplo": "Wait, let him cook, I think he has a plan."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Ratio",
+        "significado": "Quando um reply tem mais likes que o post original",
+        "exemplo": "Dude got ratio'd so hard on Twitter."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Cope",
+        "significado": "Lidar com algo difícil (usado ironicamente)",
+        "exemplo": "You lost the game? Cope harder."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Seethe",
+        "significado": "Ficar fervendo de raiva",
+        "exemplo": "He was seething after losing the debate."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Rent-free",
+        "significado": "Algo ocupa sua mente sem parar",
+        "exemplo": "That embarrassing moment lives rent-free in my head."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Caught in 4K",
+        "significado": "Pego no flagra com provas",
+        "exemplo": "He denied it but was caught in 4K."
+    },
+    {
+        "categoria": "giria",
+        "termo": "Ate",
+        "significado": "Arrasou, fez algo incrível",
+        "exemplo": "She ate that performance and left no crumbs!"
+    },
+    {
+        "categoria": "giria",
+        "termo": "Left no crumbs",
+        "significado": "Fez algo perfeitamente sem deixar nada",
+        "exemplo": "Her presentation ate and left no crumbs!"
+    },
+    {
+        "categoria": "palavra",
+        "termo": "Hike",
+        "significado": "Caminhada, escalada",
+        "exemplo": "That hike will be fantastic"
+    }
+]
